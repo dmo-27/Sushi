@@ -1,0 +1,69 @@
+.header__navv{
+  display:flex;
+  overflow:hidden;
+  flex:100px;
+  
+
+  
+
+}
+
+.Menu{
+    padding:20px;
+    
+    
+}
+
+.Food{
+    padding:20px
+}
+
+.About_us{
+    padding-left:20px;
+    padding-right:30px
+}
+
+.Menu_img{
+    align-items: right;
+    padding-left:25px;
+    
+}
+
+.navbaritems{
+  padding-left:180px;
+  padding-top:20px;
+  font-size:20px
+}
+
+.header___logo_overlayer{
+    flex: 0.5;
+    display: flex;
+}
+
+.headingstyle{
+    flex:0.50;
+    display:flex;
+    padding:10px;
+    font-size:25px;
+    width:20%;
+    color: white;
+    background-color:var(--primary-color);
+    text-align:center;
+    
+    
+}
+
+.header__logo{
+    
+    flex:1;
+    display:flex;
+    position:relative;
+    padding:0.5px;
+    
+    
+}
+
+.sidething{
+    width:50%
+}
+
